@@ -2,7 +2,7 @@
   "name": "angular-jk-carousel",
   "main": "dist/jk-carousel.js",
   "style": "./dist/jk-carousel.css",
-  "version": "0.1.9",
+  "version": "0.2.0",
   "description": "Amazing carousel for angular material",
   "repository": {
     "type": "git",
